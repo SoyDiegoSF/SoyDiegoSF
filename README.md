@@ -2,7 +2,7 @@
 
 # Diego de los Santos
 
-Desarrollo software, webs y herramientas con IA aplicada. Me interesa entender el problema, construir una solución útil y mejorarla al ponerla en práctica.
+Desarrollo software, webs y herramientas con IA. Me interesa entender el problema, construir una solución útil y mejorarla al ponerla en práctica.
 
 Mi recorrido une sistemas, producción audiovisual y desarrollo de aplicaciones. Esa mezcla está presente en cómo trabajo, desde la parte técnica hasta la forma de explicar y presentar lo que construyo.
 
@@ -10,7 +10,7 @@ Mi recorrido une sistemas, producción audiovisual y desarrollo de aplicaciones.
 
 - **Webs para negocios** que expliquen bien lo que ofrecen y faciliten el contacto
 - **Herramientas y automatizaciones** para resolver tareas concretas y reducir trabajo repetitivo
-- **IA aplicada** a prototipos, desarrollo y producción audiovisual
+- **IA** para prototipos, desarrollo y producción audiovisual
 
 ### Cómo lo abordo
 
