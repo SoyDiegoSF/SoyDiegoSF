@@ -2,20 +2,12 @@
 
 # Diego de los Santos
 
-Desarrollo software, webs y herramientas con IA. Me interesa entender el problema, construir una solución útil y mejorarla al ponerla en práctica.
+Hago software, webs y pequeñas herramientas con IA. Muchas empiezan por algo que necesito en mi día a día y por pensar, por qué no hacerlo yo?
 
-Mi recorrido une sistemas, producción audiovisual y desarrollo de aplicaciones. Esa mezcla está presente en cómo trabajo, desde la parte técnica hasta la forma de explicar y presentar lo que construyo.
+Trabajo como desarrollador en NTT DATA. Antes pasé por sistemas, fotografía y vídeo. Me gusta que lo que hago funcione, se vea bien y se entienda sin dar mil explicaciones.
 
-### En qué trabajo
+Por aquí encontrarás proyectos, pruebas y herramientas que voy haciendo. Algunas me ahorran pasos en una tarea, otras me sirven para aprender o probar una idea.
 
-- **Webs para negocios** que expliquen bien lo que ofrecen y faciliten el contacto
-- **Herramientas y automatizaciones** para resolver tareas concretas y reducir trabajo repetitivo
-- **IA** para prototipos, desarrollo y producción audiovisual
+También hago webs para negocios. Me cuentas qué necesitas y me encargo del contenido, el diseño y el desarrollo que acordemos.
 
-### Cómo lo abordo
-
-Escuchar, analizar, encontrar oportunidades de mejora y convertirlas en soluciones para resolver problemas reales.
-
-### Más sobre mi trabajo
-
-[Web personal](https://diegosf.es) · [LinkedIn](https://www.linkedin.com/in/diego-de-los-santos-fagundez/) · [X](https://x.com/DSF_diego_)
+[Mi web](https://diegosf.es) · [LinkedIn](https://www.linkedin.com/in/diego-de-los-santos-fagundez/) · [X](https://x.com/DSF_diego_)
